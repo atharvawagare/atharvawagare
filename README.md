@@ -3,7 +3,7 @@
 
 - Currently in the 3rd Year
 - In search of internship related to core computer concepts
-- My first project [***Quiz Application***](https://atharvawagare.github.io/quiz-app/)
+- My first project [***QuizUp - Quiz Application***](https://atharvawagare.github.io/quiz-app/)
 - Currently working on [***My Portfolio***](https://atharvawagare.github.io/) for contest submission
 
 ### Reach me at:
