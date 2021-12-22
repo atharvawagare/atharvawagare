@@ -7,11 +7,8 @@
 - Currently working on [***My Portfolio***](https://atharvawagare.github.io/) for contest submission
 
 ### Reach me at:
-  - [Portfolio](https://atharvawagare.github.io/)
-  - [LinkedIn](https://linkedin.com/in/atharvawagare/)
-  - [Facebook](https://facebook.com/atharvawagare/)
-  - [Instagram](https://instagram.com/atharvawagare/)
-  - [Twitter](https://twitter.com/atharvawagare/)
+| [Portfolio](https://atharvawagare.github.io/) | [LinkedIn](https://linkedin.com/in/atharvawagare/) | [Facebook](https://facebook.com/atharvawagare/) | [Instagram](https://instagram.com/atharvawagare/) | [Twitter](https://twitter.com/atharvawagare/) | [Blogger](https://atharvawagare.blogspot.com/) | [KooApp](https://www.kooapp.com/profile/atharvawagare) |
+|---|---|---|---|---|---|---|
 
 <!-- **atharvawagare/atharvawagare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
