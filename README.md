@@ -9,8 +9,8 @@
 - For more details, connect with me on [***LinkedIn***](https://linkedin.com/in/atharvawagare/) or visit my [***Portfolio***](https://atharvawagare.github.io/)
 
 ### Reach me at:
-| [Portfolio](https://atharvawagare.github.io/) | [LinkedIn](https://linkedin.com/in/atharvawagare/) | [Facebook](https://facebook.com/atharvawagare/) | [Instagram](https://instagram.com/atharvawagare/) | [Twitter](https://twitter.com/atharvawagare/) | [Blogger](https://atharvawagare.blogspot.com/) | [KooApp](https://www.kooapp.com/profile/atharvawagare) |
-|---|---|---|---|---|---|---|
+| [Portfolio](https://atharvawagare.github.io/) | [LinkedIn](https://linkedin.com/in/atharvawagare/) | [HackerRank](https://hackerrank.com/atharvawagare) |[Facebook](https://facebook.com/atharvawagare/) | [Instagram](https://instagram.com/atharvawagare/) | [Twitter](https://twitter.com/atharvawagare/) | [Blogger](https://atharvawagare.blogspot.com/) | [KooApp](https://www.kooapp.com/profile/atharvawagare) |
+|---|---|---|---|---|---|---|---|
 
 
 <!--
