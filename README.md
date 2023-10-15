@@ -1,5 +1,6 @@
 # Atharva Wagare
-### Intern @[InfoCepts](https://infocepts.com/) | Data Engineering Enthusiast | Python | PySpark | SQL | Linux | Knowledge about Dockerizing the Project with Practical Implementation on NVIDIA DGX Workstation
+
+### Associate @ [InfoCepts](https://infocepts.com/) | Data Engineering Enthusiast | Python | PySpark | SQL | Snowflake | Linux | Knowledge about Dockerizing the Project with Practical Implementation on NVIDIA DGX Workstation
 
 - Check Out My [***Docker Images***](https://hub.docker.com/u/atharvawagare)
 - Paper published:- [***Identification of Biometric Facial Geometry using RGB-D Image based Fuzzy Model***](https://www.researchgate.net/publication/363272731_Identification_of_Biometric_Facial_Geometry_using_RGB-D_Image_based_Fuzzy_Model)
